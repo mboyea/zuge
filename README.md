@@ -1,4 +1,4 @@
-Windows Console Pong
+Zombie Unicode Game Engine
 ===
 A game engine for Windows terminals.
 ---
